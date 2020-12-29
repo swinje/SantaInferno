@@ -18,3 +18,5 @@ Elf: attribution needed
 Start: Jep Alekhin, https://jap.alekhin.io
 Lose Splash: Jep Alekhin, https://jap.alekhin.io
 Tree: attribution needed
+
+![Screenshot](https://github.com/swinje/SantaInferno/blob/main/SantaInferno.png)
