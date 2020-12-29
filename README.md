@@ -13,7 +13,7 @@ Attribution:
 Santa: http://clipartmag.com/free-clipart-santa-sleigh<br>
 Present: attribution needed<br>
 Space: Pixabay<br>
-Village i spaceimage: attribution needed<br>
+Village space image: attribution needed<br>
 Elf: attribution needed<br>
 Start: Jep Alekhin, https://jap.alekhin.io<br>
 Lose Splash: Jep Alekhin, https://jap.alekhin.io<br>
